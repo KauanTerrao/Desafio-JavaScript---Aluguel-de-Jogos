@@ -1,5 +1,7 @@
 # 🎮 Alugames – Sistema de Aluguel de Jogos
 
+[🔗 Acessar demonstração Online](https://kauanterrao.github.io/Desafio-JavaScript---Aluguel-de-Jogos/)
+
 ---
 
 ## Este projeto simula o aluguel e devolução de jogos em uma página HTML. Ao clicar nos botões de cada jogo, o status visual é alterado para indicar se está alugado ou disponível.
